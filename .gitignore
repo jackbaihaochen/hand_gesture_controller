@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# MediaPipe model (auto-downloaded at runtime)
+*.task
+
+# Claude Code internals
+.agents/
+.claude/
+skills-lock.json
